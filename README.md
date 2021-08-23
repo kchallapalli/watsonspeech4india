@@ -1,1 +1,2 @@
-# watsonspeech4india
+# IBM Watson Speech to Text for Indian English and Hindi
+The attached Jupyter Notebook is a very simple one that can be used to quickly test out Watson STT for Indian English and Hindi.  The notebook has to be edited to add the service API Key and URL.  I have provide a couple sample files and you can replace those with your own audio files.  While the files are mp3, Watson STT supports a whole wide range of audio formats (https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-audio-formats).
